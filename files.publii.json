@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "97167915f7b21b4961ab7b6ce3ab7f0e"
+        "md5": "f0da2cbb83608c5fa91817d62e183c96"
     },
     {
         "path": "amp",
@@ -22,7 +22,7 @@
     {
         "path": "/amp/authors/bwb/index.html",
         "type": "file",
-        "md5": "c668da4ea3c728c8a7ebd75e39cccfce"
+        "md5": "2225facfc937bdff2d73b117d23e6b0b"
     },
     {
         "path": "amp/bacon-wrapped-bitcoin-bwb",
@@ -32,12 +32,12 @@
     {
         "path": "/amp/bacon-wrapped-bitcoin-bwb/index.html",
         "type": "file",
-        "md5": "3d0cf6b16d40cd2effef5d90bf5cff1f"
+        "md5": "bfae38d89091880568a396f4a66de377"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "0d85ede2644703a70d8f23fed9ae897e"
+        "md5": "b617b51bd888b538db3c17d830e0ac37"
     },
     {
         "path": "assets",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/bwb/index.html",
         "type": "file",
-        "md5": "2180d635b1d4a97d15dc3ab2c89afb27"
+        "md5": "128e59cdecc427315c491f96b22b47ae"
     },
     {
         "path": "bacon-wrapped-bitcoin-bwb",
@@ -152,22 +152,22 @@
     {
         "path": "/bacon-wrapped-bitcoin-bwb/index.html",
         "type": "file",
-        "md5": "79e0a1995f367259c74a588aab2ba270"
+        "md5": "3fd04cfa32722b57601a4571169068df"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "c2430c1209f5e54c97c3379bf8f6ef9c"
+        "md5": "a608efcf79ac51789f2d8c342741b69f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c27a1402391214c89d6b10047fc5c1a2"
+        "md5": "67ae0c687ffba308adbb4bc1c1d8d5c5"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7c4b5e13f73585dbf518d05829eee0b6"
+        "md5": "680c3191de4d5269a8d5e2ea81b3d528"
     },
     {
         "path": "media",
@@ -188,6 +188,11 @@
         "path": "/media/posts/1/BWB-Timeline-2.PNG",
         "type": "file",
         "md5": "e106e5f5b59f368e51d5e49825a13908"
+    },
+    {
+        "path": "/media/posts/1/bwbpresale-2.png",
+        "type": "file",
+        "md5": "2b62c23440f6f69968c2c1ceb0736777"
     },
     {
         "path": "media/posts/1/gallery",
@@ -235,6 +240,11 @@
         "md5": "3af70b50e8a152f6a0e59be0813fd552"
     },
     {
+        "path": "/media/posts/1/reddit.png",
+        "type": "file",
+        "md5": "40cd2a4023f8d64c5b70d6235fa4b5d4"
+    },
+    {
         "path": "media/posts/1/responsive",
         "type": "directory",
         "md5": false
@@ -268,6 +278,36 @@
         "path": "/media/posts/1/responsive/BWB-Timeline-2-xs.PNG",
         "type": "file",
         "md5": "c23b15ebdb08ee68231297e439a4d4c8"
+    },
+    {
+        "path": "/media/posts/1/responsive/bwbpresale-2-2xl.png",
+        "type": "file",
+        "md5": "b0dd209ff683fb46f828f55dd5fc827d"
+    },
+    {
+        "path": "/media/posts/1/responsive/bwbpresale-2-lg.png",
+        "type": "file",
+        "md5": "b0dd209ff683fb46f828f55dd5fc827d"
+    },
+    {
+        "path": "/media/posts/1/responsive/bwbpresale-2-md.png",
+        "type": "file",
+        "md5": "5835bfdaa0679c3125fa247afbbaf1e7"
+    },
+    {
+        "path": "/media/posts/1/responsive/bwbpresale-2-sm.png",
+        "type": "file",
+        "md5": "105bf02406e2faa3914dcc6ea6cc7f62"
+    },
+    {
+        "path": "/media/posts/1/responsive/bwbpresale-2-xl.png",
+        "type": "file",
+        "md5": "b0dd209ff683fb46f828f55dd5fc827d"
+    },
+    {
+        "path": "/media/posts/1/responsive/bwbpresale-2-xs.png",
+        "type": "file",
+        "md5": "c60a00771865f17c98e259627f5b25ea"
     },
     {
         "path": "/media/posts/1/responsive/guy2-2xl.jpg",
@@ -330,6 +370,36 @@
         "md5": "dc8013e98379e411968960deb0be7f91"
     },
     {
+        "path": "/media/posts/1/responsive/reddit-2xl.png",
+        "type": "file",
+        "md5": "1976f2018c21a549b9de4aff6d606890"
+    },
+    {
+        "path": "/media/posts/1/responsive/reddit-lg.png",
+        "type": "file",
+        "md5": "1976f2018c21a549b9de4aff6d606890"
+    },
+    {
+        "path": "/media/posts/1/responsive/reddit-md.png",
+        "type": "file",
+        "md5": "1976f2018c21a549b9de4aff6d606890"
+    },
+    {
+        "path": "/media/posts/1/responsive/reddit-sm.png",
+        "type": "file",
+        "md5": "1976f2018c21a549b9de4aff6d606890"
+    },
+    {
+        "path": "/media/posts/1/responsive/reddit-xl.png",
+        "type": "file",
+        "md5": "1976f2018c21a549b9de4aff6d606890"
+    },
+    {
+        "path": "/media/posts/1/responsive/reddit-xs.png",
+        "type": "file",
+        "md5": "1976f2018c21a549b9de4aff6d606890"
+    },
+    {
         "path": "/media/posts/1/responsive/signal-2021-12-10-114000_003-2xl.png",
         "type": "file",
         "md5": "8a159dbc579267cf870a6699b3601736"
@@ -360,9 +430,79 @@
         "md5": "3055806720be94d12a0f80d37a3a7f22"
     },
     {
+        "path": "/media/posts/1/responsive/telegram-2xl.png",
+        "type": "file",
+        "md5": "f194fe835072b1bebe7d12cccbe8c1ea"
+    },
+    {
+        "path": "/media/posts/1/responsive/telegram-lg.png",
+        "type": "file",
+        "md5": "f194fe835072b1bebe7d12cccbe8c1ea"
+    },
+    {
+        "path": "/media/posts/1/responsive/telegram-md.png",
+        "type": "file",
+        "md5": "f194fe835072b1bebe7d12cccbe8c1ea"
+    },
+    {
+        "path": "/media/posts/1/responsive/telegram-sm.png",
+        "type": "file",
+        "md5": "f194fe835072b1bebe7d12cccbe8c1ea"
+    },
+    {
+        "path": "/media/posts/1/responsive/telegram-xl.png",
+        "type": "file",
+        "md5": "f194fe835072b1bebe7d12cccbe8c1ea"
+    },
+    {
+        "path": "/media/posts/1/responsive/telegram-xs.png",
+        "type": "file",
+        "md5": "f194fe835072b1bebe7d12cccbe8c1ea"
+    },
+    {
+        "path": "/media/posts/1/responsive/twitter-2xl.png",
+        "type": "file",
+        "md5": "1dde60dd8a9f9f386018c696c4c1d10b"
+    },
+    {
+        "path": "/media/posts/1/responsive/twitter-lg.png",
+        "type": "file",
+        "md5": "1dde60dd8a9f9f386018c696c4c1d10b"
+    },
+    {
+        "path": "/media/posts/1/responsive/twitter-md.png",
+        "type": "file",
+        "md5": "1dde60dd8a9f9f386018c696c4c1d10b"
+    },
+    {
+        "path": "/media/posts/1/responsive/twitter-sm.png",
+        "type": "file",
+        "md5": "1dde60dd8a9f9f386018c696c4c1d10b"
+    },
+    {
+        "path": "/media/posts/1/responsive/twitter-xl.png",
+        "type": "file",
+        "md5": "1dde60dd8a9f9f386018c696c4c1d10b"
+    },
+    {
+        "path": "/media/posts/1/responsive/twitter-xs.png",
+        "type": "file",
+        "md5": "1dde60dd8a9f9f386018c696c4c1d10b"
+    },
+    {
         "path": "/media/posts/1/signal-2021-12-10-114000_003.png",
         "type": "file",
         "md5": "85622bde8f6563d223e2f5adff85d91e"
+    },
+    {
+        "path": "/media/posts/1/telegram.png",
+        "type": "file",
+        "md5": "59a571226acfdc39575e6673db9560b2"
+    },
+    {
+        "path": "/media/posts/1/twitter.png",
+        "type": "file",
+        "md5": "8c9c7e72f97de64b26d6603e8c1ffc86"
     },
     {
         "path": "media/website",
@@ -492,12 +632,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "263a136de94fe47fdbc535a963eae991"
+        "md5": "c601163271091bc7871d7d8b67afc947"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "36092a835776739f9ff5653a0246ae43"
+        "md5": "9b067d73235d631e8987b07e51bb856e"
     },
     {
         "path": "sitemap.xsl",
@@ -512,6 +652,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "28eaea806fd3e5ea4a668e3a2742fc71"
+        "md5": "40d2c1f675b0aa4fb31fcdf3edd0f8b8"
     }
 ]
