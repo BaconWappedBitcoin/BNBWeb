@@ -1,0 +1,517 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "97167915f7b21b4961ab7b6ce3ab7f0e"
+    },
+    {
+        "path": "amp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/bwb",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/bwb/index.html",
+        "type": "file",
+        "md5": "c668da4ea3c728c8a7ebd75e39cccfce"
+    },
+    {
+        "path": "amp/bacon-wrapped-bitcoin-bwb",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/bacon-wrapped-bitcoin-bwb/index.html",
+        "type": "file",
+        "md5": "3d0cf6b16d40cd2effef5d90bf5cff1f"
+    },
+    {
+        "path": "/amp/index.html",
+        "type": "file",
+        "md5": "0d85ede2644703a70d8f23fed9ae897e"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "caf7a8491d7fdaa3304eb2832a5aef65"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "7331f6eb15671b2fc8e3ffd46e849f7b"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "b1b5f7e66743acffe70e367b9ce5da06"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "9952f77ca2b8fbc9449a268008ea8dee"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "b586a3bc288c989ecce7b81b48e35855"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "932f325ea2f7fb1467e84c97f137e0f9"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f4c4d35432d0e17d212f2fae4e0f8247"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "3fc55b509d613f5e49db25528dfafee1"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "b40f17fabcda1519011795fa715c5751"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ae5b8ffffb37a64a9be016441a42d939"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/bwb",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/bwb/index.html",
+        "type": "file",
+        "md5": "2180d635b1d4a97d15dc3ab2c89afb27"
+    },
+    {
+        "path": "bacon-wrapped-bitcoin-bwb",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bacon-wrapped-bitcoin-bwb/index.html",
+        "type": "file",
+        "md5": "79e0a1995f367259c74a588aab2ba270"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "c2430c1209f5e54c97c3379bf8f6ef9c"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "c27a1402391214c89d6b10047fc5c1a2"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "7c4b5e13f73585dbf518d05829eee0b6"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/BWB-Timeline-2.PNG",
+        "type": "file",
+        "md5": "e106e5f5b59f368e51d5e49825a13908"
+    },
+    {
+        "path": "media/posts/1/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/gallery/business-2-thumbnail.jpg",
+        "type": "file",
+        "md5": "393ebadbcf3dde2a71604404ed64cfbe"
+    },
+    {
+        "path": "/media/posts/1/gallery/business-2.jpg",
+        "type": "file",
+        "md5": "a7013c7663d50b700ee239baea519237"
+    },
+    {
+        "path": "/media/posts/1/gallery/guy2-thumbnail.jpg",
+        "type": "file",
+        "md5": "41e413b5248cb22b28b1c7cef635591c"
+    },
+    {
+        "path": "/media/posts/1/gallery/guy2.jpg",
+        "type": "file",
+        "md5": "e16b66922d950d5488308a9d94ed6a8e"
+    },
+    {
+        "path": "/media/posts/1/gallery/marketing-thumbnail.jpg",
+        "type": "file",
+        "md5": "0c067f64ce0b42b0e31b5271378dc766"
+    },
+    {
+        "path": "/media/posts/1/gallery/marketing.jpg",
+        "type": "file",
+        "md5": "3af70b50e8a152f6a0e59be0813fd552"
+    },
+    {
+        "path": "/media/posts/1/guy2.jpg",
+        "type": "file",
+        "md5": "e16b66922d950d5488308a9d94ed6a8e"
+    },
+    {
+        "path": "/media/posts/1/marketing.jpg",
+        "type": "file",
+        "md5": "3af70b50e8a152f6a0e59be0813fd552"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/BWB-Timeline-2-2xl.PNG",
+        "type": "file",
+        "md5": "0cd051ac7bbcaf3991d82eb6fca3d7d9"
+    },
+    {
+        "path": "/media/posts/1/responsive/BWB-Timeline-2-lg.PNG",
+        "type": "file",
+        "md5": "8c8984b01446fbc338322e8a36163adc"
+    },
+    {
+        "path": "/media/posts/1/responsive/BWB-Timeline-2-md.PNG",
+        "type": "file",
+        "md5": "54a51cd3def8377912ab858b52ab0ef3"
+    },
+    {
+        "path": "/media/posts/1/responsive/BWB-Timeline-2-sm.PNG",
+        "type": "file",
+        "md5": "767277d096c3702314d27afbb68c1abc"
+    },
+    {
+        "path": "/media/posts/1/responsive/BWB-Timeline-2-xl.PNG",
+        "type": "file",
+        "md5": "0cd051ac7bbcaf3991d82eb6fca3d7d9"
+    },
+    {
+        "path": "/media/posts/1/responsive/BWB-Timeline-2-xs.PNG",
+        "type": "file",
+        "md5": "c23b15ebdb08ee68231297e439a4d4c8"
+    },
+    {
+        "path": "/media/posts/1/responsive/guy2-2xl.jpg",
+        "type": "file",
+        "md5": "3e65f8faf2387470e7e52a6d9cf18873"
+    },
+    {
+        "path": "/media/posts/1/responsive/guy2-lg.jpg",
+        "type": "file",
+        "md5": "3e65f8faf2387470e7e52a6d9cf18873"
+    },
+    {
+        "path": "/media/posts/1/responsive/guy2-md.jpg",
+        "type": "file",
+        "md5": "475e8d58489012d21f589d0fc4cba940"
+    },
+    {
+        "path": "/media/posts/1/responsive/guy2-sm.jpg",
+        "type": "file",
+        "md5": "68b48ccd6a0fd687dd36b500cae85619"
+    },
+    {
+        "path": "/media/posts/1/responsive/guy2-xl.jpg",
+        "type": "file",
+        "md5": "3e65f8faf2387470e7e52a6d9cf18873"
+    },
+    {
+        "path": "/media/posts/1/responsive/guy2-xs.jpg",
+        "type": "file",
+        "md5": "e22d6f7ef7bc86b5fd4ece36b80dd244"
+    },
+    {
+        "path": "/media/posts/1/responsive/marketing-2xl.jpg",
+        "type": "file",
+        "md5": "dc5eade5c8ea430dd5920af964ff4460"
+    },
+    {
+        "path": "/media/posts/1/responsive/marketing-lg.jpg",
+        "type": "file",
+        "md5": "dc5eade5c8ea430dd5920af964ff4460"
+    },
+    {
+        "path": "/media/posts/1/responsive/marketing-md.jpg",
+        "type": "file",
+        "md5": "eb825bef1b5fe7bce1a96082a3a4d99e"
+    },
+    {
+        "path": "/media/posts/1/responsive/marketing-sm.jpg",
+        "type": "file",
+        "md5": "6a5892c8e2510966d166878b49ceec07"
+    },
+    {
+        "path": "/media/posts/1/responsive/marketing-xl.jpg",
+        "type": "file",
+        "md5": "dc5eade5c8ea430dd5920af964ff4460"
+    },
+    {
+        "path": "/media/posts/1/responsive/marketing-xs.jpg",
+        "type": "file",
+        "md5": "dc8013e98379e411968960deb0be7f91"
+    },
+    {
+        "path": "/media/posts/1/responsive/signal-2021-12-10-114000_003-2xl.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/posts/1/responsive/signal-2021-12-10-114000_003-lg.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/posts/1/responsive/signal-2021-12-10-114000_003-md.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/posts/1/responsive/signal-2021-12-10-114000_003-sm.png",
+        "type": "file",
+        "md5": "a57eed699634b4f49834d3a98e5fffed"
+    },
+    {
+        "path": "/media/posts/1/responsive/signal-2021-12-10-114000_003-xl.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/posts/1/responsive/signal-2021-12-10-114000_003-xs.png",
+        "type": "file",
+        "md5": "3055806720be94d12a0f80d37a3a7f22"
+    },
+    {
+        "path": "/media/posts/1/signal-2021-12-10-114000_003.png",
+        "type": "file",
+        "md5": "85622bde8f6563d223e2f5adff85d91e"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "65d957d09351a351d1898db1773b45d1"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-2-2xl.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-2-lg.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-2-md.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-2-sm.png",
+        "type": "file",
+        "md5": "a57eed699634b4f49834d3a98e5fffed"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-2-xl.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-2-xs.png",
+        "type": "file",
+        "md5": "d70483b4105c3a35a9d197e66bf32235"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-2xl.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-3-2xl.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-3-lg.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-3-md.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-3-sm.png",
+        "type": "file",
+        "md5": "a57eed699634b4f49834d3a98e5fffed"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-3-xl.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-3-xs.png",
+        "type": "file",
+        "md5": "d70483b4105c3a35a9d197e66bf32235"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-lg.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-md.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-sm.png",
+        "type": "file",
+        "md5": "a57eed699634b4f49834d3a98e5fffed"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-xl.png",
+        "type": "file",
+        "md5": "8a159dbc579267cf870a6699b3601736"
+    },
+    {
+        "path": "/media/website/responsive/signal-2021-12-10-114000_003-xs.png",
+        "type": "file",
+        "md5": "d70483b4105c3a35a9d197e66bf32235"
+    },
+    {
+        "path": "/media/website/signal-2021-12-10-114000_003-2.png",
+        "type": "file",
+        "md5": "85622bde8f6563d223e2f5adff85d91e"
+    },
+    {
+        "path": "/media/website/signal-2021-12-10-114000_003-3.png",
+        "type": "file",
+        "md5": "85622bde8f6563d223e2f5adff85d91e"
+    },
+    {
+        "path": "/media/website/signal-2021-12-10-114000_003.png",
+        "type": "file",
+        "md5": "85622bde8f6563d223e2f5adff85d91e"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "8662ff6ce133028d31037fb055af4fe8"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "263a136de94fe47fdbc535a963eae991"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "36092a835776739f9ff5653a0246ae43"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "28eaea806fd3e5ea4a668e3a2742fc71"
+    }
+]

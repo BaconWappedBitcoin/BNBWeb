@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://baconwrappedbitcoin.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://baconwrappedbitcoin.com/</loc>
+</url>
+<url>
+<loc>https://baconwrappedbitcoin.com/bacon-wrapped-bitcoin-bwb/</loc>
+<lastmod>2021-12-11T10:26:13-08:00</lastmod>
+<image:image>
+<image:loc>https://baconwrappedbitcoin.com/media\posts\1/signal-2021-12-10-114000_003.png</image:loc>
+<image:title><![CDATA[BWB Logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://baconwrappedbitcoin.com/media\posts\1/BWB-Timeline-2.PNG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://baconwrappedbitcoin.com/media\posts\1/gallery/business-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[White Older Businessman]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://baconwrappedbitcoin.com/media\posts\1/gallery/marketing-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Somewhat Attractive Marketing Lady]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://baconwrappedbitcoin.com/media\posts\1/gallery/guy2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[ Young, Vagely European Developer Dude]]></image:title>
+</image:image>
+</url>
+</urlset>
